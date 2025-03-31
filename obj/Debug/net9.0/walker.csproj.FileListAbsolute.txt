@@ -1,0 +1,14 @@
+/Users/lin/projects/walker/bin/Debug/net9.0/walker
+/Users/lin/projects/walker/bin/Debug/net9.0/walker.deps.json
+/Users/lin/projects/walker/bin/Debug/net9.0/walker.runtimeconfig.json
+/Users/lin/projects/walker/bin/Debug/net9.0/walker.dll
+/Users/lin/projects/walker/bin/Debug/net9.0/walker.pdb
+/Users/lin/projects/walker/obj/Debug/net9.0/walker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lin/projects/walker/obj/Debug/net9.0/walker.AssemblyInfoInputs.cache
+/Users/lin/projects/walker/obj/Debug/net9.0/walker.AssemblyInfo.cs
+/Users/lin/projects/walker/obj/Debug/net9.0/walker.csproj.CoreCompileInputs.cache
+/Users/lin/projects/walker/obj/Debug/net9.0/walker.dll
+/Users/lin/projects/walker/obj/Debug/net9.0/refint/walker.dll
+/Users/lin/projects/walker/obj/Debug/net9.0/walker.pdb
+/Users/lin/projects/walker/obj/Debug/net9.0/walker.genruntimeconfig.cache
+/Users/lin/projects/walker/obj/Debug/net9.0/ref/walker.dll
