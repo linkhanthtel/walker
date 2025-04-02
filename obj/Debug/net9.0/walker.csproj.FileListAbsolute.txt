@@ -12,3 +12,4 @@
 /Users/lin/projects/walker/obj/Debug/net9.0/walker.pdb
 /Users/lin/projects/walker/obj/Debug/net9.0/walker.genruntimeconfig.cache
 /Users/lin/projects/walker/obj/Debug/net9.0/ref/walker.dll
+/Users/lin/projects/walker/obj/Debug/net9.0/walker.sourcelink.json

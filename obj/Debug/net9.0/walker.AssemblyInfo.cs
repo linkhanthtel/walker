@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("walker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb0439d3bfab79a214fbb884f325a63ab67a1ab6")]
 [assembly: System.Reflection.AssemblyProductAttribute("walker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("walker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
