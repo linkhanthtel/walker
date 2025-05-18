@@ -1,1 +1,3 @@
-##Codebase to learn C#
+## Walker
+
+### Mini game logic code developed with C#
